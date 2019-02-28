@@ -1,8 +1,7 @@
 # Edge v0.1.0
 ![](https://img.shields.io/github/license/venice1200/Edge.svg?style=flat) 
   
-Simple Arduino Library creating positive and negative "one cycle" signals (flancs)  
-from an boolean input signal. 
+Simple Arduino Library creating positive and negative "one cycle" signals (flancs) from an boolean Input signal. 
   
 See Example.  
   
